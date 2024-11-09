@@ -31,4 +31,4 @@ This repository contains a comprehensive collection of Data Structures and Algor
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sadam-Barkat/DSA_Using_C++.git
+   git clone https://github.com/Sadam-Barkat/Data_Structures_And_Algorithms.git
